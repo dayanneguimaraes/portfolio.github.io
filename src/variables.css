@@ -1,0 +1,20 @@
+:root {
+    --verde-100: #45A1A3;
+    --verde-50: #6fbcaa;
+    --verde-40: #b8d6b0;
+    --azul-100: #183668;
+    --azul-50: #04558C;
+    --cinza-100: #E9E9E9;
+    --amarelo: #feedbf;
+    --rosa-claro-50: #F5DFDA;
+    --rosa-100: #ff1964;
+    --vinho-100: #990C42;
+    --marron-50: #F2EDEB;
+    --marron-100: #A67165;
+    --black-100: #07070D;
+    --laranja-100: #F88F79;
+
+    --fundo: #F5DFDA;
+    --titulo: #A67165;
+    --texto: #07070D;
+}

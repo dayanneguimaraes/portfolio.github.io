@@ -1,0 +1,137 @@
+{
+    "sobre": {
+        "descricao": [
+            "Formada em Engenharia da Computação pelas Faculdades Alfa, atualmente desenvolvedora front-end na Dataeasy com vueJs. Trabalhei na Indra atuando na Goiasprev participando de projetos como simulador web e censo web com reactJs. Fui desenvolvedora na BB Tecnologia & Serviços como desenvolvedora de software, atuando no front-end e no back-end . Participou no desenvolvimento de diversos softwares do Banco do Brasil e da BBTS. Atuando como líder técnica do projeto Proconsumidor(antigo Sindec), desenvolvedora da arquitetura e de componentes do front-end, administrando o kanban azure devops, distribuindo as tarefas entre a equipe, auxiliando a equipe em problemas no front-end, aprovações de pull-request e desenvolvendo(front-end e back-end)."
+        ],
+        "tecnologias": [
+            {
+                "title": "HTML",
+                "icon": "fa-brands fa-html5"
+            },
+            {
+                "title": "CSS",
+                "icon": "fa-brands fa-css3-alt"
+            },
+            {
+                "title": "VueJS",
+                "icon": "fa-brands fa-vuejs"
+            },
+            {
+                "title": "Angular",
+                "icon": "fa-brands fa-angular"
+            },
+            {
+                "title": "ReactJs",
+                "icon":"fa-brands fa-react"
+            },
+            {
+                "title": "Git",
+                "icon": "fa-brands fa-git"
+            }
+        ]
+    },
+    "experiencia": [
+        {
+            "empresa": "Dataeasy",
+            "funcao": "Analista Desenvolvedor Pleno",
+            "periodo": "Janeiro 2021 - Janeiro 2024",
+            "descricao": [
+                "Desenvolvedora front-end. Participou do processo de transformação do código JSF para vueJS do sistema de gerenciamento eletrônico de documentos e processos.",
+                "Desde o desenvolvimento da arquitetura, criação dos componentes front-end(Vuejs), desenvolvimento de telas,",
+                "definições de libs, responsável pelas aprovações de pull requests no Azure DevOps da SPA(Single Page Application) e da API.",
+                "Resolução de alguns erros do back-end(Java).",
+                "Trabalhou também na criação de sistemas em React",
+                "Criação de rest(Java)"
+            ]
+        },
+        {
+            "empresa": "Indra",
+            "funcao": "Analista de desenvolvimento de software",
+            "periodo": "Março 2020 - Dezembro 2020",
+            "descricao": [
+                "Trabalhou no cliente Goiasprev no desenvolvimento do front-end do sistema simulador web de aposentadorias e pensões, e do censo web utilizando o reactJs."
+            ]
+        },
+        {
+            "empresa": "BBTS",
+            "funcao": "Analista de desenvolvimento de software",
+            "periodo": "Julho 2015 - Março de 2020",
+            "descricao": [
+                "Participou no desenvolvimento de diversos softwares do Banco do Brasil e da BBTS como: CBN, CPR e DEB (AngularJS), PAJ(JSF, Java, AngularJS), RPJ(AngularJS, Highcharts), PNG, MCO, PCDI e SAC(Microserviços, MQTT, Java, angular 4), ICN(Angular, Java, Spring Boot), etc.",
+                "Líder técnica do projeto Proconsumidor, desenvolveu a arquitetura e os componentes do front end(Angular 7), gerenciando o board do Azure DevOps, analisando e distribuindo as tarefas entre a equipe. Auxiliando a equipe em problemas no front-end. Aprovações do pull requests do front-end. Desenvolvendo no front-end e back-end do sistema."
+            ]
+        },
+        {
+            "empresa": "Dataeasy",
+            "funcao": "Analista de desenvolvimento de software ",
+            "periodo": "Fevereiro 2013 - Setembro 2014",
+            "descricao": [
+                "Full Stack(Java, JSF)",
+                "Desenvolvimento de novas funcionalidades no sistema de gerenciamento eletrônico de documentos e processos",
+                "Gerando SQL no banco de dados SQL Server",
+                "Atendimentos por meio de sistema de pendência JIRA"
+            ]
+        }
+    ],
+    "projetos": [
+        {
+            "nome": "My Planner",
+            "descricao": "Sistema de planner desenvolvido para os estudos de angular",
+            "tecnologias": [
+                "Angular",
+                "CSS",
+                "TypeScript",
+                "Angular Material"
+            ],
+            "github": "https://github.com/dayanneguimaraes/myplanner.github.io",
+            "app": "https://dayanneguimaraes.github.io/myplanner.github.io/planner"
+        },
+        {
+            "nome": "App Tarefa",
+            "descricao": "Sistema de tarefas desenvolvido para os estudos de vuejS 3",
+            "tecnologias": [
+                "VueJs",
+                "CSS",
+                "Stylus",
+                "Vuex",
+                "Vue-router",
+                "Fontawesome",
+                "Vue-i18n",
+                "eslint"
+            ],
+            "github": "https://github.com/dayanneguimaraes/myplanner.github.io",
+            "app": "https://dayanneguimaraes.github.io/myplanner.github.io/planner"
+        },
+        {
+            "nome": "Labirinto",
+            "descricao": "É um jogo gratuito e fácil de jogar. Os níveis não são gerados aleatoriamente, todos feitos a mão",
+            "tecnologias": [
+                "GDScript",
+                "Godot Engine"
+            ],
+            "github": ""
+        },
+        {
+            "nome": "Matemática Divertida",
+            "descricao": "Aprenda matemática resolvendo desafios, que ajuda a testar a sua mente. Com treinamento com cálculos de matemáticas que te ajuda a fazer cálculos de cabeça.",
+            "tecnologias": [
+                "Flutter"
+            ],
+            "github": ""
+        },
+        {
+            "nome": "Etanol ou Gasolina",
+            "descricao": "Descubra qual a melhor opção etanol ou gasolina e economize na hora de abastece seu carro flex.",
+            "tecnologias": [
+                "Flutter"
+            ],
+            "github": ""
+        }
+    ],
+    "contato": {},
+    "redesSociais": {
+        "email": "dayanne.guimaraes13@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/dayanne-guimaraes/",
+        "github": "https://github.com/dayanneguimaraes"
+    }
+}
